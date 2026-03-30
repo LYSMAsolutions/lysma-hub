@@ -50,7 +50,7 @@ export default function Home() {
           return (
             <Link
               key={app.slug}
-              href={`/outils/${app.slug}`}
+              href={`/apps/${app.slug}`}
               className="group relative rounded-3xl p-8 border border-[#E2E8F0] bg-white/80 backdrop-blur-sm shadow-[0_6px_20px_rgba(15,23,42,0.04)] hover:shadow-[0_14px_40px_rgba(15,23,42,0.08)] hover:-translate-y-1 hover:scale-[1.015] transition-all duration-300"
             >
               {/* ICON */}

@@ -1,7 +1,7 @@
 {
     "name": "Calculateur E-liquide",
     "short_name": "E-liquide",
-    "start_url": "/outils/calculateur-e-liquide",
+    "start_url": "/apps/calculateur-e-liquide",
     "display": "standlone",
     "background_color": "#F2F4F7",
     "theme_color": "#0A4D9B",
